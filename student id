@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student ID Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .id-card {
+            width: 350px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px gray;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .header {
+            background: #0066cc;
+            color: white;
+            padding: 15px;
+        }
+
+        .header h2 {
+            margin: 5px;
+        }
+
+        .photo {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 20px auto 10px;
+            background: #ddd;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 40px;
+        }
+
+        .details {
+            text-align: left;
+            padding: 15px 30px;
+        }
+
+        .details p {
+            margin: 10px 0;
+        }
+
+        .footer {
+            background: #0066cc;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student ID Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .id-card {
+            width: 350px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px gray;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .header {
+            background: #0066cc;
+            color: white;
+            padding: 15px;
+        }
+
+        .header h2 {
+            margin: 5px;
+        }
+
+        .photo {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 20px auto 10px;
+            background: #ddd;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 40px;
+        }
+
+        .details {
+            text-align: left;
+            padding: 15px 30px;
+        }
+
+        .details p {
+            margin: 10px 0;
+        }
+
+        .footer {
+            background: #0066cc;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="id-card">
+
+    <div class="header">
+        <h2>ABC COLLEGE</h2>
+        <p>STUDENT ID CARD</p>
+    </div>
+
+    <div class="photo">
+        👤
+    </div>
+
+    <div class="details">
+        <p><b>Student ID:</b> 138617</p>
+        <p><b>Name:</b> Chavda Jyoti</p>
+        <p><b>Course:</b> BCA</p>
+        <p><b>Semester:</b> 2nd</p>
+        <p><b>Mobile:</b> 9876543210</p>
+        <p><b>Email:</b> jyoti@example.com</p>
+    </div>
+
+    <div class="footer">
+        Valid Student ID
+    </div>
+
+</div>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>Student ID Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .id-card {
+            width: 350px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px gray;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .header {
+            background: #0066cc;
+            color: white;
+            padding: 15px;
+        }
+
+        .header h2 {
+            margin: 5px;
+        }
+
+        .photo {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 20px auto 10px;
+            background: #ddd;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 40px;
+        }
+
+        .details {
+            text-align: left;
+            padding: 15px 30px;
+        }
+
+        .details p {
+            margin: 10px 0;
+        }
+
+        .footer {
+            background: #0066cc;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="id-card">
+
+    <div class="header">
+        <h2>ABC COLLEGE</h2>
+        <p>STUDENT ID CARD</p>
+    </div>
+
+    <div class="photo">
+        👤
+    </div>
+
+    <div class="details">
+        <p><b>Student ID:</b> 138617</p>
+        <p><b>Name:</b> Chavda Jyoti</p>
+        <p><b>Course:</b> BCA</p>
+        <p><b>Semester:</b> 2nd</p>
+        <p><b>Mobile:</b> 9876543210</p>
+        <p><b>Email:</b> jyoti@example.com</p>
+    </div>
+
+    <div class="footer">
+        Valid Student ID
+    </div>
+
+</div>
+
+</body>
+</html>
+<body>
+
+<div class="id-card">
+
+    <div class="header">
+        <h2>ABC COLLEGE</h2>
+        <p>STUDENT ID CARD</p>
+    </div>
+
+    <div class="photo">
+        👤
+    </div>
+
+    <div class="details">
+        <p><b>Student ID:</b> 138788</p>
+        <p><b>Name:</b> Chavda amisha</p>
+        <p><b>Course:</b> BA</p>
+        <p><b>Semester:</b> 5nd</p>
+        <p><b>Mobile:</b> 9978694863</p>
+        <p><b>Email:</b> afcporda@gmile.com</p>
+    </div>
+
+    <div class="footer">
+        Valid Student ID
+    </div>
+
+</div>
+
+</body>
+</html>
