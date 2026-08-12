@@ -1,8 +1,0 @@
-x = float(1)
-y = float(4.4)
-z = float("4")
-w = float("4.6")
-print(a)
-print(b)
-print(c)
-print(d)
